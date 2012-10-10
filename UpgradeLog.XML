@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LFS_sTaTs">
+</Property><Property Name="Solution File" Value="C:\Users\Paul\Desktop\LFS_sTaTs_v2.00_src\LFS_sTaTs_v2.00_src\LFS_sTaTs.sln">
+</Property><Property Name="Date" Value="08 October 2012">
+</Property><Property Name="Time" Value="11:37">
+</Property></Properties><Event ErrorLevel="1" Project="LFSStat" Source="LFSStat\LFSStat.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="LFSStat" Source="LFSStat\LFSStat.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LFSStat" Source="LFSStat\LFSStat.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Graph" Source="Graph\Graph.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Graph" Source="Graph\Graph.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LFS_sTaTs.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LFS_sTaTs.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LFSStat" Source="LFSStat\LFSStat.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
